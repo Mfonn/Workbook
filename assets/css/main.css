@@ -600,6 +600,32 @@ input, select, textarea {
 
 /* Icon */
 
+.rainbow {
+	width: 50%;
+    margin-top: 20%;
+}
+
+.hanalei-fill-regular {
+	font-family: "Hanalei Fill", system-ui;
+	font-weight: 400;
+	font-style: normal;
+  }
+  
+
+.season {
+	line-height: 1rem;
+    letter-spacing: 0.1rem;
+    text-align: center;
+    align-content: center;
+}
+
+#header nav ul li a {
+	font-size: 0.6rem !important;
+    line-height: 1 !important;
+    letter-spacing: 0.1rem;
+    text-align: center;
+    align-content: center;
+}
 	.icon {
 		text-decoration: none;
 		border-bottom: none;
