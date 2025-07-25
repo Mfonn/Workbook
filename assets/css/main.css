@@ -623,6 +623,10 @@ input, select, textarea {
 	font-weight: bold;
 }
 
+.heading-sub {
+	margin: 0;
+}
+
 #header nav ul li a {
 	font-size: 0.6rem !important;
     line-height: 1 !important;
